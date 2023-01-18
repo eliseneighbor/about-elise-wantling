@@ -1,11 +1,21 @@
+body {
+    background-color: hotpink;
+}
 h1 {
-    color: darkmagenta;
-    background-color: lightgreen;
+    color: red;
 }
 
 p {
-    color: rebeccapurple;
-    background-color: lightpink;
+    color: orange;
+}
+p {
+    color: yellow;
+}
+p {
+    color: green;
+}
+p {
+    color: blue;
 }
 
 img {

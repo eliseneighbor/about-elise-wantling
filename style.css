@@ -5,24 +5,29 @@ h1 {
     color: red;
 }
 
-p {
+p.p1 {
     color: orange;
 }
-p {
+p.p2 {
     color: yellow;
 }
-p {
+p.p3 {
     color: green;
 }
-p {
+p.p4 {
     color: blue;
 }
+p.p5 {
+    color: purple;
+}
 
-img {
-    width: 25em;
+img.cat {
+    width: 50em;
     height: 40em;
     display: block;
     margin: 0 auto;
 }
+
+
 
 
